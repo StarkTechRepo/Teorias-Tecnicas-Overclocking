@@ -40,7 +40,7 @@
 - Inestabilidad: Tanto el overclocking como el undervolting pueden causar inestabilidad en el sistema, resultando en errores y bloqueos.
 - Reducción de la Vida Útil: Estas prácticas pueden acortar la vida útil de los componentes si se utilizan de manera extrema o inadecuada.
 
-## Herramientas para Overclocking de CPUs AMD Ryzen
+# Herramientas para Overclocking de CPUs AMD Ryzen
 
 ### [AMD Ryzen Master](https://www.amd.com/es/technologies/ryzen-master)
 - AMD Ryzen Master es una herramienta oficial de AMD que permite ajustar la configuración de CPUs AMD Ryzen.
@@ -71,7 +71,7 @@
 - Además del overclocking, se puede utilizar para undervoltar la CPU, reduciendo el consumo de energía y la temperatura.
 - También permite ajustar la velocidad de la memoria y otros parámetros del sistema.
 
-## Herramientas para Undervolting de CPUs AMD Ryzen
+# Herramientas para Undervolting de CPUs AMD Ryzen
 
 ### Utilizando AMD Ryzen Master
 
