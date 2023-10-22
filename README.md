@@ -107,9 +107,8 @@ Es importante comenzar con pequeños incrementos de undervoltaje y probar la est
 3. Reduce el valor del voltaje del núcleo.
 4. Haz clic en el botón "Aplicar".
 
-
-## Licencia
+# Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
-### Nota importante
+# Nota importante
 Se recomienda encarecidamente hacer una copia de seguridad de los datos importantes antes de continuar. El autor no se hace responsable de ningún daño o problema causado por el mal uso de estas tecnicas.
