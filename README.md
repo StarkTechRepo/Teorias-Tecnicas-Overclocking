@@ -1,4 +1,6 @@
 
+![imagen](foto.jpg)
+
 # ¿Qué es Overclocking y Undervolting?
 
 **Overclocking:** Aumentar la frecuencia de reloj de componentes electrónicos (CPU, GPU, memoria RAM) para mejorar el rendimiento, con riesgos asociados.
